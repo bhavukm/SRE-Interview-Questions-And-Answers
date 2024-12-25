@@ -1,5 +1,7 @@
 SRE Questions & Answers Part 1: https://youtu.be/p0tYcr4Z7eY
 
+SRE Questions & Answers Part 2: https://youtu.be/XtlbV0E-5Ho
+
 How To Get Your First DevOps Job: https://youtu.be/NIR2tZ-BVL4
 
 How To Get Your First AWS Job: https://youtu.be/ZFq23KLgSmA
